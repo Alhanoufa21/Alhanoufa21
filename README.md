@@ -5,11 +5,10 @@
     <a href="https://www.linkedin.com/in/alhanouf-al-atif-74b062247/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
   </p>
   
+  <img src="https://github.com/mohamedabusrea/mohamedabusrea/blob/master/profile-img.png" align="right" width="25%"/>
 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
+As a recent Computer Science graduate from Imam University, I am focused on AI and ML, with a keen interest in mobile app development. I have practical experience with Java, Python, and Swift, enabling me to handle technical challenges effectively. Committed to continuous learning, I actively seek opportunities that promote growth. I thrive in both solo and team environments, leveraging my strong communication skills for problem-solving. Driven to advance in AI, ML, and app development, I aim to use my technical and collaborative skills to make a positive impact.
 
-- 🔭 I'm a software developer [@Deliveryhero](https://www.deliveryhero.com/) in Berlin, Germany
-- 🔍 I have 2 live apps: 
-  - [Quran-tab (chrome extension)](https://chrome.google.com/webstore/detail/quran-tab/afaihcdgkjebgabomemccdneglknjkdd)
-  - Wazaker App ([Android version](https://play.google.com/store/apps/details?id=com.wazakerdailyaya&gl=DE), [iOS version](https://apps.apple.com/app/apple-store/id1453500014))
-- 💬 Ask me about **ReactJs and Frontend**
+
+- 🔭 I'm a ios developer learner in Apple Developer Academy at TUWAIQ 
+
